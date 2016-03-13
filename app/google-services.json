@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_id": "fbstuff-1249",
+    "project_number": "1058031587302",
+    "name": "fbstuff"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058031587302:android:2576bb2aa4acdf48",
+        "client_id": "android:com.codemunger.fbstuff",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.codemunger.fbstuff",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058031587302-nel0pfe2ctdf28abfuet3dihlp6i6dib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codemunger.fbstuff",
+            "certificate_hash": "8717A2E1B46E37FCFE97DDAD00D6825AE1C04618"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
